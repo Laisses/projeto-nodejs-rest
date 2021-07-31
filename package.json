@@ -1,0 +1,19 @@
+{
+  "name": "projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "\"# projeto-nodejs-rest\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laisses/projeto-nodejs-rest.git"
+  },
+  "author": "laisse lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laisses/projeto-nodejs-rest/issues"
+  },
+  "homepage": "https://github.com/Laisses/projeto-nodejs-rest#readme"
+}
