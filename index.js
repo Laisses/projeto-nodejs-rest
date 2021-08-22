@@ -5,3 +5,7 @@ const app = express();
 app.listen(1234, () => {
 	console.log("servidor rodando! na porta 1234");
 });
+
+const atendimentos = require("./controllers/antendimentos.js");
+
+console.log(atendimentos);
